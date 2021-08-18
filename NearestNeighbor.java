@@ -23,7 +23,7 @@ public class NearestNeighbor {
 		
 		//details 
 		System.out.println("Programming Fundamentals\n" 
-		+ "NAME: \n" + "PROGRAMMING ASSIGNMENT 3");
+		+ "NAME: Sravani Birudukota \n" + "PROGRAMMING ASSIGNMENT 3");
 		System.out.println("");
 
 		// allow user to enter the dataset file names
